@@ -12,7 +12,8 @@ WIP - Work in Progress
 * [Follow DDAU without hesitation](./docs/ddau.md)
 * [Container/Presenter pattern is your best friend](./docs/container-presenter.md)
 * [No re-extend pattern](./docs/no-re-extend.md)
-* [BEM is wonderful for organization](./docs/bem.md)
+* [Use a CSS organization methodology](./docs/css.md)
+* [Create a design system](./docs/ds.md)
 
 ## Disclaimer
 
