@@ -13,3 +13,7 @@ WIP - Work in Progress
 * [Container/Presenter pattern is your best friend](./docs/container-presenter.md)
 * [No re-extend pattern](./docs/no-re-extend.md)
 * [BEM is wonderful for organization](./docs/bem.md)
+
+## Disclaimer
+
+_The views an opinions expressed in this repo are my own and do not reflect the views or opinions of organizations I work for or belong to currently or in the past._
